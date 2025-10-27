@@ -70,9 +70,4 @@ When I’m not training models or writing scripts, I’m probably:
 If you want to collaborate, discuss AI, or build something that *actually works* in production:  
 
 📧 **franz.alveriobiz@aol.com**  
-🔗 [LinkedIn](#) • [GitHub](#) • [ResearchGate](#)
-
----
-
-![Franz's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+🔗 [LinkedIn](www.linkedin.com/in/franz-tovie-alverio-60b548249) 
