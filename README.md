@@ -11,7 +11,7 @@ Hi! I’m **Franz Alverio**, a **Backend Developer** — currently merging creat
 ## 🧠 Background & Focus
 
 I’m driven by systems that work — not just in theory, but in production.
-My foundation in advertising trained me to understand people; my background in computer science taught me to understand logic.
+My foundation in finance, customer service, and advertising trained me to understand people; my background in computer science and information technology taught me to understand logic.
 Now, I’m fusing both perspectives to engineer backends and intelligent systems that are robust, maintainable, and meaningful.
 
 I specialize in Backend Engineering, Data-Driven AI, and Quality Assurance, with a project management mindset that ensures every build aligns with real-world usability and scalability.
@@ -30,7 +30,8 @@ My philosophy: Strong systems aren’t just coded — they’re architected.
 ## 🛠 Skills & Tech Stack
 
 **Languages & Frameworks**
-- 🐍 Python (TensorFlow, PyTorch, scikit-learn)  
+- 🐍 Python (TensorFlow, PyTorch, scikit-learn)
+- C++
 - 🌐 JavaScript (React, Node.js)  
 - 💅 HTML, CSS, Tailwind  
 - 🐘 PostgreSQL, ⚙️ Redis, 🐳 Docker  
