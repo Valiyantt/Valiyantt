@@ -29,19 +29,19 @@ My philosophy: Strong systems aren’t just coded — they’re architected.
 
 ## 🛠 Skills & Tech Stack
 
-**Languages & Frameworks**
-- 🐍 Python (TensorFlow, PyTorch, scikit-learn)
-- C++
-- 🌐 JavaScript (React, Node.js)  
-- 💅 HTML, CSS, Tailwind  
-- 🐘 PostgreSQL, ⚙️ Redis, 🐳 Docker  
+| Category                     | Technologies / Tools                                   |
+|-----------------------------|--------------------------------------------------------|
+| Programming Languages        | [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)                      |
+| Frameworks & Libraries       | PyTorch, Django, Flask, Angular                        |
+| Development Tools & IDEs     | Anaconda, PyCharm, Android Studio, Visual Studio       |
+| Cloud & DevOps               | Google Cloud Platform (GCP), Docker                    |
+| Databases & Caching          | PostgreSQL, Redis                                      |
+| Scripting & Shell            | Bash, PowerShell                                       |
+| Design & Modeling            | Figma, Blender                                         |
+| Hardware / Embedded Systems  | Arduino                                                |
+| Platforms & Communication    | Discord, Gmail, LinkedIn                               |
 
-**Core Skills**
-- Backend & API Development  
-- Data Preprocessing & Feature Engineering  
-- Model Deployment & Versioning  
-- Synthetic Data Generation  
-- Research Documentation & Technical Writing  
+
 
 ---
 
