@@ -1,17 +1,19 @@
-# ⚙️ Let’s Get Real. Let’s Build.
-## Tech Stack
+#  Welcome to this Corner of the Universe.
 
-| Category                     | Technologies / Tools                                   |
-|-----------------------------|--------------------------------------------------------|
-| Programming Languages        | [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)                      |
-| Frameworks & Libraries       | PyTorch, Django, Flask, Angular                        |
-| Development Tools & IDEs     | Anaconda, PyCharm, Android Studio, Visual Studio       |
-| Cloud & DevOps               | Google Cloud Platform (GCP), Docker                    |
-| Databases & Caching          | PostgreSQL, Redis                                      |
-| Scripting & Shell            | Bash, PowerShell                                       |
-| Design & Modeling            | Figma, Blender                                         |
-| Hardware / Embedded Systems  | Arduino                                                |
-| Platforms & Communication    | Discord, Gmail, LinkedIn                               |
+---
+
+
+Programming Languages        [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)                     
+Frameworks & Libraries       PyTorch, Django, Flask, Angular                        
+Development Tools & IDEs     Anaconda, PyCharm, Android Studio, Visual Studio     
+Cloud & DevOps               Google Cloud Platform (GCP), Docker                  
+Databases & Caching          PostgreSQL, Redis                                    
+Scripting & Shell            Bash, PowerShell                                     
+Design & Modeling            Figma, Blender                                       
+Hardware / Embedded Systems  Arduino                                              
+Platforms & Communication    Discord, Gmail, LinkedIn                              
+
+---
 
 ## Socials
 
