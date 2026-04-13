@@ -15,4 +15,5 @@
 ### Annoucements
 ---
 
-March Hiatus due to Thesis
+## March - Hiatus due to Thesis
+## April - SMCL RCRS Development - Academic Institution Digital Library - Role: BA, PM, Full Stack, QA
